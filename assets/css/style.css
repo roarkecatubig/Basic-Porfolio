@@ -1,0 +1,93 @@
+body {
+    background-image: url("../images/gplaypattern/gplaypattern/gplaypattern.png");
+    width: 960px;
+    align: center;
+}
+
+#name{
+    width: 200px;
+    color: white;
+    background: #4aaaa5;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    margin-right: 50px;
+    float: left;
+}
+
+#page_navigation{
+    float: right;
+    clear: left;
+}
+
+.main {
+    background:#ffffff;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    width: 650px;
+    padding: 30px;
+    margin: auto;
+    float: left;
+
+}
+
+.portfolio-pics{
+    width: 275px;
+    height: 200px;
+    padding-left: 40px;
+    padding-bottom: 50px;
+    position: static;
+}
+
+header {
+    background: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    height: 80px;
+}
+
+h1{
+    color: #4aaaa5;
+}
+
+#contact-box{
+    background: blue;
+    color: white;
+    width: 270px;
+    position: absolute;
+    right: 20px;
+}
+
+footer{
+    background: purple;
+    color: white;
+    text-align: center;
+    position: static;
+
+}
+
+#hangman {
+
+}
+
+#rpg{
+
+}
+
+#trivia{
+
+}
+
+#rutgers{
+
+}
+
+#rps{
+ 
+}
+
+
+
+
