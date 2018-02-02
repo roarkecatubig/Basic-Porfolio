@@ -93,14 +93,6 @@ section{
     width: 60px;
 }
 
-/* #teal_footer{
-    background: #4aaaa5;
-    height: 10px;
-    position: static;
-    clear: both;
-    bottom: 0;
-}  */
-
 #grey_footer{
     background: gray;
     color: white;
@@ -281,3 +273,4 @@ input[type=submit]:hover {
     
 }
 
+/* barelyfitsdesigns */
